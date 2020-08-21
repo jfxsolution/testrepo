@@ -1,2 +1,2 @@
 # testrepo
-print"5x5"
+print("5x5")
